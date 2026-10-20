@@ -20,3 +20,5 @@ Portal de Dados Abertos da Prefeitura do Recife: [SAMU 2026](https://dados.recif
 
 ## Ferramentas
 Excel, Power Query, Power Pivot e DAX
+
+*Print com o filtro de município em Recife (50.357 chamados). A base completa tem 129.624 chamados.*
