@@ -3,6 +3,8 @@
 Dashboard interativo em Excel sobre os chamados do SAMU no Recife e região metropolitana, de janeiro a agosto de 2026.
 
 ![Dashboard](dashboard.png)
+![diagrama](diagrama.png).
+![formula](formula.png).
 
 ## Fonte dos dados
 Portal de Dados Abertos da Prefeitura do Recife: [SAMU 2026](https://dados.recife.pe.gov.br/dataset/servico-de-atendimento-movel-de-urgencia-samu-2026)
